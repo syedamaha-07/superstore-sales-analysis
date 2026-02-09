@@ -17,7 +17,6 @@ Insight:
 Sales fluctuate across months and peak in high demand periods.
 
 ---
-
 ### 2. Category Wise Sales
 Technology and Furniture categories generate major revenue compared to others.
 
