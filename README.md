@@ -26,6 +26,10 @@ Technology and Furniture categories generate major revenue compared to others.
 ### 3. Regional Performance
 Different regions show variation in sales performance.
 
+## Dataset & Dashboard
+Google Sheets Dashboard:
+https://docs.google.com/spreadsheets/d/1xPByJoE9lLLWYPzTjs5OEuMUXuXDWe6Qg4Y2f4DGWkc/edit?usp=sharing
+
 ---
 
 ## Conclusion
